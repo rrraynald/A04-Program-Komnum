@@ -1,4 +1,4 @@
-# Code
+### Code
 ```py
 def f(x):
     return x**3 + 10*x**2 - 7*x - 196
@@ -38,3 +38,5 @@ result = posisi_salah(a, b, xr_true)
 if result is not None:
     print(f"Akar yang ditemukan: {result:.6f}")
 ```
+
+### Penjelasan

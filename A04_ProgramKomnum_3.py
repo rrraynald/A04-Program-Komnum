@@ -29,7 +29,6 @@ def posisi_salah(a, b, xr_true, min_error = 0, max_error = 1, max_iter=100):
 
     return xr
 
-# Contoh penggunaan
 a = -5   
 b = 8
 xr_true = 4

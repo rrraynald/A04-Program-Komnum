@@ -131,12 +131,10 @@ Menjalankan fungsi dengan interval awal `[-5, 8]` dan akar sebenarnya `4`.
 
 ## ✅ Output
 
-```python
-Iterasi 0: a=-5.000000, b=8.000000, xr=1.719607, f(xr)=-142.062408, error_true= N/A
-Iterasi 1: a=1.719607, b=8.000000, xr=3.139741, f(xr)=-56.303960, error_true=0.274342
-...
-Akar yang ditemukan: 4.000011
-```
+
+![image](https://github.com/user-attachments/assets/d4ea71df-acce-4d75-bb14-29fe45f64638)
+
+
 
 ---
 

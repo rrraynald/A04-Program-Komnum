@@ -16,7 +16,8 @@
 
 ## Soal
 
-![alt text](<Screenshot 2025-06-08 at 14.20.11.png>)
+<img width="550" alt="soal" src="https://github.com/user-attachments/assets/1bce36c5-203b-4819-af0b-2ff2dc8324ff" />
+
 
 ### Code
 
@@ -153,6 +154,6 @@ Menjalankan fungsi dengan interval awal `[-5, 8]` dan akar sebenarnya `4`.
 
 ## Output
 
-![alt text](<Screenshot 2025-06-08 at 14.22.34.png>)
+<img width="506" alt="output" src="https://github.com/user-attachments/assets/01c1bb65-376a-4841-9b1f-71483d9e3926" />
 
 ---
